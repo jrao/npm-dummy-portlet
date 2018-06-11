@@ -1,7 +1,0 @@
-{
-	"description": "NPM Dummy Portlet",
-	"main": "lib/index.es.js",
-	"name": "npm-dummy-portlet",
-	"private": true,
-	"version": "1.0.0"
-}
