@@ -1,0 +1,13 @@
+{
+  "name": "npm-dummy-portlet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "liferay-npm-bundler": "^2.0.1"
+  },
+  "scripts": {
+    "build": "liferay-npm-bundler"
+  }
+}
