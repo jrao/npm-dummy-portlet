@@ -1,0 +1,11 @@
+<div id="npm-portlet-${portletNamespace}" />
+
+<script type="javascript">
+    Liferay.Loader.require("${nameOfPackageInPackageJson}@${versionOfPackageInPackageJson}", function(module) {
+        module.default({
+            portletNamespace: "${portletNamespace}",
+            contextPath: "${contextPath}",
+            portletElementId: "npm-portlet-${portletNamespace}"
+        });
+    });
+</script>
