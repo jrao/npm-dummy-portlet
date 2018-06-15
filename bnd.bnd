@@ -2,4 +2,5 @@ Bundle-Name: npm-dummy-portlet
 Bundle-SymbolicName: com.liferay.npm.dummy.portlet
 Bundle-Version: 1.0.0
 Require-Capability: osgi.extender;filter:="(osgi.extender=liferay.npm.portlet)"
+Web-ContextPath: /npm-dummy-portlet
 -sources: true
