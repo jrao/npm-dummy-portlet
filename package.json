@@ -1,4 +1,7 @@
 {
+    "dependencies": {
+        "isarray": "2.0.2"
+    },
     "description": "NPM Dummy Portlet",
     "devDependencies": {
         "babel-cli": "6.26.0",
